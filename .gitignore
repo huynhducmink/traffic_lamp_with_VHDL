@@ -1,0 +1,4 @@
+*
+!.gitignore
+!traffic_lamp.vhd
+!traffic_lamp_tb.vhd
